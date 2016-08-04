@@ -7,3 +7,6 @@
 [submodule "powerline"]
 	path = powerline
 	url = https://github.com/milkypostman/powerline
+[submodule "moe-theme.el"]
+	path = moe-theme.el
+	url = https://github.com/kuanyui/moe-theme.el

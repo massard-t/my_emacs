@@ -26,7 +26,7 @@
 
 ;; moe-theme ;;
 (add-to-list 'custom-theme-load-path "~/.emacs.d/moe-theme.el/")
-(add-to-list 'load-path "/root/.emacs.d/moe-theme")
+(add-to-list 'load-path "/root/.emacs.d/moe-theme.el")
 (require 'moe-theme)
 (load-theme 'moe-dark t)
 (moe-dark)
