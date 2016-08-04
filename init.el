@@ -40,6 +40,7 @@
 (ac-config-default)
 
 ;; latex config ;;
+(add-to-list 'load-path "/root/.emacs.d/math-symbol-lists")
 (add-to-list 'load-path "/root/.emacs.d/ac-math/")
 (require 'ac-math)
 (add-to-list 'ac-modes 'latex-mode) ; make autocomplete aware of latex-mode
@@ -54,6 +55,7 @@
 (setq ac-math-unicode-in-math-p t)
 
 ;; go-mode ;;
+(add-to-list 'load-path "/root/.emacs.d/go-mode.el")
 (require 'go-mode-autoloads)
 
 ;; yasnippet ;;

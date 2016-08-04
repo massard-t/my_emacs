@@ -13,3 +13,9 @@
 [submodule "ac-math"]
 	path = ac-math
 	url = https://github.com/vspinu/ac-math
+[submodule "math-symbol-lists"]
+	path = math-symbol-lists
+	url = https://github.com/vspinu/math-symbol-lists
+[submodule "go-mode.el"]
+	path = go-mode.el
+	url = https://github.com/dominikh/go-mode.el
