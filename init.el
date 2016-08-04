@@ -61,6 +61,10 @@
 ;; yasnippet ;;
 (yas-global-mode 1)
 
+;; git-modes ;;
+(add-to-list 'load-path "/root/.emacs.d/git-modes")
+(require 'git-modes)
+
 ;; saveplace puts the cursos back to its ;;
 ;; place after closing/opening a file ;;
 (require 'saveplace)

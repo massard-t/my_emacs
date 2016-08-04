@@ -19,3 +19,6 @@
 [submodule "go-mode.el"]
 	path = go-mode.el
 	url = https://github.com/dominikh/go-mode.el
+[submodule "git-modes"]
+	path = git-modes
+	url = https://github.com/magit/git-modes
