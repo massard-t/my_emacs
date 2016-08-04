@@ -1,4 +1,5 @@
 ;;; -*- coding: utf-8 -*-
-(("/root/.emacs.d/init.el" . 1867)
+(("/root/.emacs.d/.gitignore" . 30)
+ ("/root/.emacs.d/init.el" . 1867)
  ("/root/MyConfiguration/new_vm.sh" . 125)
  ("/root/MyConfiguration/install_docker.sh" . 187))
