@@ -40,6 +40,7 @@
 (ac-config-default)
 
 ;; latex config ;;
+(add-to-list 'load-path "/root/.emacs.d/ac-math/")
 (require 'ac-math)
 (add-to-list 'ac-modes 'latex-mode) ; make autocomplete aware of latex-mode
 

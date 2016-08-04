@@ -10,3 +10,6 @@
 [submodule "moe-theme.el"]
 	path = moe-theme.el
 	url = https://github.com/kuanyui/moe-theme.el
+[submodule "ac-math"]
+	path = ac-math
+	url = https://github.com/vspinu/ac-math
