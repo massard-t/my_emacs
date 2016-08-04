@@ -1,0 +1,6 @@
+[submodule "emacs-neotree"]
+	path = emacs-neotree
+	url = https://github.com/jaypei/emacs-neotree
+[submodule "dockerfile-mode"]
+	path = dockerfile-mode
+	url = https://github.com/spotify/dockerfile-mode
