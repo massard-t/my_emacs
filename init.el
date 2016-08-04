@@ -15,7 +15,7 @@
 (add-to-list 'auto-mode-alist '("Dockerfile\\'" . dockerfile-mode))
 
 ;; neotree, [f8] to see current directory branch ;;
-(add-to-list 'load-path "/root/.emacs.d/neotree")
+(add-to-list 'load-path "/root/.emacs.d/emacs-neotree")
 (require 'neotree)
 (global-set-key [f8] 'neotree-toggle)
 

@@ -4,3 +4,6 @@
 [submodule "dockerfile-mode"]
 	path = dockerfile-mode
 	url = https://github.com/spotify/dockerfile-mode
+[submodule "powerline"]
+	path = powerline
+	url = https://github.com/milkypostman/powerline
