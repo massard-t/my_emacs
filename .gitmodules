@@ -22,3 +22,6 @@
 [submodule "git-modes"]
 	path = git-modes
 	url = https://github.com/magit/git-modes
+[submodule "org-trello"]
+	path = org-trello
+	url = https://github.com/org-trello/org-trello.git
