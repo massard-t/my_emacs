@@ -1,8 +1,8 @@
 ;;; -*- coding: utf-8 -*-
-(("/root/todo" . 332)
+(("/root/.emacs.d/init.el" . 994)
+ ("/root/todo" . 332)
  ("/root/.emacs.d/elpa/dash-functional-20160615.1351/dash-functional-autoloads.el" . 251)
  ("/root/.emacs.d/elpa/dash-20160619.611/dash-autoloads.el" . 222)
- ("/root/.emacs.d/init.el" . 603)
  ("/root/.bashrc" . 632)
  ("/root/.tmux.conf" . 25)
  ("/root/root_old/DEVELOP_DOCKERFILES_RZC/test2/docker-compose.yml" . 853)

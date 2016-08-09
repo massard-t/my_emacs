@@ -32,6 +32,10 @@
 (moe-dark)
 (moe-theme-set-color 'blue)
 
+;; org-trello ;;
+;(require 'org-trello)
+;(custom-set-variables '(org-trello-files '("~/trello.trello")))
+
 ;; autocomplete config ;;
 (require 'auto-complete-config)
 ;; C-n and C-p allows to easily switch between choices ;;
