@@ -66,8 +66,8 @@
 (yas-global-mode 1)
 
 ;; git-modes ;;
-(add-to-list 'load-path "~/.emacs.d/git-modes")
-(require 'git-modes)
+;(add-to-list 'load-path "~/.emacs.d/git-modes")
+;(require 'git-modes)
 
 ;; saveplace puts the cursos back to its ;;
 ;; place after closing/opening a file ;;
